@@ -1,3 +1,3 @@
 # LeetCode
 
-1. Two sum - 25.09.24
+first problem - 25.09.24
