@@ -1,8 +1,3 @@
-"""
-time complexity: O(n);
-space complexity: O(n);
-"""
-
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         p1, p2 = len(word1), len(word2)

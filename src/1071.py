@@ -1,8 +1,3 @@
-"""
-time complexity: O(nlogn);
-space complexity: O(n);
-"""
-
 import math
 
 class Solution:
